@@ -1,6 +1,7 @@
 # encoder_decoder.py
 # Author: Jonathan Tang
 
+#Comment by Adolfo Vera
 def encode(password):
     encoded = ""
     for char in password:
